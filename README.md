@@ -121,6 +121,38 @@ npm run preview
 
 ---
 
+# Playwright Testing
+
+This project uses Playwright for basic end-to-end testing.
+
+---
+
+## Run Tests
+
+Run all tests:
+
+```bash
+npx playwright test
+```
+
+---
+
+## Existing Test Cases
+
+### Home Page Test
+
+- Verifies homepage loads successfully
+- Verifies Products heading is visible
+
+### Product Detail Test
+
+- Navigates to product detail page
+- Verifies Add to Cart button is visible
+
+---
+
+
+
 # Limitations
 
 - API does not support multiple category filters directly.
