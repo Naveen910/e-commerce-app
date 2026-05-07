@@ -99,36 +99,6 @@ http://localhost:5173
 
 ---
 
-# Install Tailwind CSS
-
-If Tailwind is not configured:
-
-## Install Tailwind
-
-```bash
-npm install tailwindcss @tailwindcss/vite
-```
-
-## Update vite.config.ts
-
-```ts
-import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
-import tailwindcss from "@tailwindcss/vite";
-
-export default defineConfig({
-  plugins: [react(), tailwindcss()],
-});
-```
-
-## Update index.css
-
-```css
-@import "tailwindcss";
-```
-
----
-
 # Available Scripts
 
 ## Run Development Server
