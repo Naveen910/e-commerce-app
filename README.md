@@ -76,7 +76,7 @@ git clone https://github.com/Naveen910/e-commerce-app
 ## 2. Navigate to Project
 
 ```bash
-cd ecommerce-store
+cd e-commerce-app
 ```
 
 ## 3. Install Dependencies
