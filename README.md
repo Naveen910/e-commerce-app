@@ -156,7 +156,3 @@ npm run preview
 # Author
 
 Naveen Chary
-
-```
-
-```
