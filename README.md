@@ -1,4 +1,4 @@
-# React E-Commerce Store
+# E-Commerce-App ShopEase
 
 A modern and responsive e-commerce web application built using React, TypeScript, Tailwind CSS, and React Router.
 
